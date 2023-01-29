@@ -1,5 +1,3 @@
-// 1) Destructuring
-// SPREAD, because on RIGHT side of =
 const restaurant = {
   name: "Classico Italiano",
   location: "Via Angelo Tavanti 23, Firenze, Italy",
